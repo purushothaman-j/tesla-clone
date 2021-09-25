@@ -32,6 +32,7 @@ function Section({
 
 const Buttons = styled.div``;
 const Wrap = styled.div`
+  z-index: 1;
   width: 100vw;
   height: 100vh;
   background-size: cover;
